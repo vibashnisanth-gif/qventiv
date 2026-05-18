@@ -17,7 +17,7 @@ export default function Home() {
         borderBottom: '1px solid #1e2530',
       }}>
         <span style={{ fontSize: '22px', fontWeight: 700, color: '#00C4A7', letterSpacing: '-0.5px' }}>Qventiv</span>
-        <a href="mailto:vibash@qventiv.com" style={{
+        <a href="mailto:vibash.qventiv@outlook.com" style={{
           background: '#00C4A7',
           color: '#0D1117',
           padding: '10px 24px',
@@ -73,7 +73,7 @@ export default function Home() {
           and deliver a clean async report. No calls. No guesswork. Just results.
         </p>
         <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap', justifyContent: 'center' }}>
-          <a href="mailto:vibash@qventiv.com?subject=Free QA Audit Request" style={{
+          <a href="mailto:vibash.qventiv@outlook.com?subject=Free QA Audit Request" style={{
             background: '#00C4A7',
             color: '#0D1117',
             padding: '14px 32px',
@@ -82,7 +82,7 @@ export default function Home() {
             fontSize: '16px',
             textDecoration: 'none',
           }}>Get a Free Audit →</a>
-          <a href="mailto:vibash@qventiv.com" style={{
+          <a href="mailto:vibash.qventiv@outlook.com" style={{
             background: '#1a2130',
             color: '#fff',
             padding: '14px 32px',
@@ -91,7 +91,7 @@ export default function Home() {
             fontSize: '16px',
             textDecoration: 'none',
             border: '1px solid #2a3444',
-          }}>vibash@qventiv.com</a>
+          }}>vibash.qventiv@outlook.com</a>
         </div>
       </section>
 
@@ -140,7 +140,7 @@ export default function Home() {
       }}>
         <h2 style={{ fontSize: '28px', fontWeight: 700, marginBottom: '12px' }}>Ready to stop losing leads silently?</h2>
         <p style={{ color: '#8892a4', marginBottom: '28px', fontSize: '16px' }}>Reply with your website URL. We run the audit and send you the report. Free. No commitment.</p>
-        <a href="mailto:vibash@qventiv.com?subject=Free QA Audit Request" style={{
+        <a href="mailto:vibash.qventiv@outlook.com?subject=Free QA Audit Request" style={{
           background: '#00C4A7',
           color: '#0D1117',
           padding: '14px 36px',
@@ -166,7 +166,7 @@ export default function Home() {
       }}>
         <span style={{ color: '#00C4A7', fontWeight: 700 }}>Qventiv</span>
         <span>AI-Powered Website QA & Funnel Monitoring</span>
-        <a href="mailto:vibash@qventiv.com" style={{ color: '#00C4A7', textDecoration: 'none' }}>vibash@qventiv.com</a>
+        <a href="mailto:vibash.qventiv@outlook.com" style={{ color: '#00C4A7', textDecoration: 'none' }}>vibash.qventiv@outlook.com</a>
       </footer>
     </main>
   )
